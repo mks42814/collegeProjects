@@ -1,2 +1,3 @@
 # collegeProjects
-This repository is dedicated to all the projects which are done while I was pursuing my BCA Graduation, I had two project papers in my syllabus of BCA, first one was in fourth semester (as Minor Project) and the other one in sixth semester. For the first one (i.e. Minor Project) I made a clone website of Suzuki Motorcycles India Pvt. Ltd. using HTML, CSS JavaScript and PHP and for sixth semester project I made an Android Game called “Fishie”.
+
+This repository is dedicated to all the projects that I completed while working toward my BCA degree. My BCA course syllabus included two project papers, the first of which was due in the fourth semester (as a Minor Project) and the second of which was due in the sixth semester. Using HTML, CSS, JavaScript, and PHP, I created a replica of the Suzuki Motorcycles India Pvt. Ltd. website for the first project (a minor project), and for the sixth semester project, I created the Android game "Fishie."
