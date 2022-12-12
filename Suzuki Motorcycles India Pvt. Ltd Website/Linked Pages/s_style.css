@@ -1,0 +1,146 @@
+*
+{
+    margin=0;
+    padding: 0
+        }
+/*----------Navigation----------*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    font-family: 'Arial', sans-serif;
+}
+.navbar-brand img
+{
+    height: 80px;
+    padding-left:0px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    font-size: 20px;
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #007bff!important;
+}
+.navbar
+{
+    background: #fff;
+}
+navbar-toggler
+{
+    border:none!important;
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+.nav-link img
+{
+    height: 50px;  
+}
+#nav-bar .fa
+{
+    height: 25px;
+    width: 25px;  
+}
+.navbar-nav ul li
+{
+    padding: 2px;
+    display: inline-block;
+}
+.fa-facebook
+{
+    margin: 10px;
+    color: blue;
+}
+.fa-twitter
+{
+    margin: 10px;
+    color: blue;
+}
+.fa-youtube
+{
+    margin: 10px;
+    color: red;
+}
+.fa-instagram
+{
+    margin: 10px;
+    color: hotpink;
+}
+/*--------------Heading-------------*/
+#header
+{
+    background: #00344D;
+    padding: 10px;
+    font-family: 'Arial';
+}
+#header h2
+{
+    color: white;
+}
+#scooters a
+{
+margin-left: 200px;  
+}
+.article-intro 
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: darkslategrey;  
+}
+.article-intro a
+{
+    color: white;   
+}
+#booking
+{
+     background-color: #333;
+}
+.book-text ul li a
+{
+    font-family: 'Arial';
+    font-size: 40px;
+    margin-left: 750px;
+    color:white; 
+}
+#footer
+{
+    background-color: darkslategray;
+}
+.footer-text h2
+{
+    font-family: 'Cooper Std';
+    font-size: 20px;
+    margin-top: 15px;
+    color:white;
+}
+.footer-text ul li a
+{
+    font-family: 'Arial';
+    font-size: 15px;
+    color: white !important;  
+}
+.footer-text ul li
+{
+    text-align: center;
+    list-style: none;
+    padding: 20px;
+}
+#credits
+{
+    background: #333;
+    color: white;
+    padding: 12px;
+}
