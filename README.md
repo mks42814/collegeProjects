@@ -17,4 +17,3 @@ This repository is dedicated to all the projects that I completed while working 
 ![Facilities](https://user-images.githubusercontent.com/116374216/207246889-870e3d02-7a78-4110-b328-f108f58fad8f.png)
 ![Gallery](https://user-images.githubusercontent.com/116374216/207246939-d84b1f26-2d9f-4a00-b5d5-0ef4296bc5f6.png)
 ![Booking Database](https://user-images.githubusercontent.com/116374216/207246953-88b247b0-25b2-4062-ac7e-13f30255c2fb.png)
-![Booking Database](https://user-images.githubusercontent.com/116374216/207246981-e62bee1b-6de7-4623-bff7-2ee3398c9422.png)
