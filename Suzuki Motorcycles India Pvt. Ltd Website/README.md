@@ -2,7 +2,7 @@ This repository is dedicated to my BCA 4th semester project. My BCA course sylla
 (as a Minor Project). Using HTML, CSS, JavaScript, and PHP, I created a replica of the Suzuki Motorcycles India Pvt. Ltd. website.
 
 
--------------------------------------------------------------SECREENSHOTS----------------------------------------------------------------------
+-------------------------------------------------------------------------------SECREENSHOTS----------------------------------------------------------------------
                                                      
                                                                      
 ![Home](https://user-images.githubusercontent.com/116374216/207245817-04aaffa0-6c41-4be4-9d8e-8edde470780f.png)
